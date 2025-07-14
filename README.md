@@ -1,5 +1,6 @@
 # Demo
 This a demo repo
 <br>
-author -- Gourav Kaushik
+Author -- Gourav Kaushik
+Directed by -- Code with Harry and Apna Collge
 
